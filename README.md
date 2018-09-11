@@ -1,1 +1,1 @@
-# vostok-perm.github.io
+# vostok-perm website
